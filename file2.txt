@@ -1,0 +1,7 @@
+cd
+mkdir
+touch
+cat
+git init
+remote
+add
